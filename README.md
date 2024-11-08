@@ -21,6 +21,10 @@ your application will be started on the following address:
   ![image](https://github.com/user-attachments/assets/968cf093-f22e-4f3d-b419-f1e301095f5a)
   ### Mobile View
   ![image](https://github.com/user-attachments/assets/849a3cb6-3bd1-49d6-8cb6-66c51e7efdb9)
+  ### Light Mode and Dark Mode
+  ### Note:
+  The theme is taken from the system theme  
+  ![image](https://github.com/user-attachments/assets/c9907fb3-2f92-4216-abe1-86fb4e24d22e)
 
 ## Print Jobs for Admin
 ![image](https://github.com/user-attachments/assets/f9acc515-31ff-4623-87f9-e5de622f748d)
